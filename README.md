@@ -1,3 +1,10 @@
+This is my answer to this assignement.
+plot1.R, when executed, load the zip file from internet, unzip and
+build plot1.png from this data.
+plot2.R, plot3.R, plot4.R work identically, and produce plot2.png, plot3.png, plot4.png.
+
+For details on the assignement, see below.
+
 ## Introduction
 
 This assignment uses data from
